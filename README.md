@@ -1,0 +1,2 @@
+# CoreWar
+Alpha code
